@@ -9,3 +9,4 @@ function start() {
     bg_music.play();
 });
 }
+<button onclick=\"location.href='https://kelibear.github.io/rheina/';\">alay</button>"
