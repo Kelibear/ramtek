@@ -8,13 +8,13 @@ body {
     margin-top: 100px;
 }
 
-.icon {
+.bulet {
     font-size: 50px;
     cursor: pointer;
     transition: transform 0.3s;
 }
 
-.icon:hover {
+.bulet:hover {
     transform: scale(1.2);
 }
 
@@ -23,7 +23,7 @@ body {
     display: none;
 }
 
-.letter {
+.kertas {
     background: white;
     padding: 20px;
     border-radius: 10px;
