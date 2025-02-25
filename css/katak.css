@@ -7,13 +7,13 @@ body {
     margin-top: 100px;
 }
 
-.bulet {
+.garem {
     font-size: 50px;
     cursor: pointer;
     transition: transform 0.3s;
 }
 
-.bulet:hover {
+.garem:hover {
     transform: scale(1.2);
 }
 
